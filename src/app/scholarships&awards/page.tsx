@@ -136,7 +136,7 @@ export default function AwardsPage() {
 
             {/* Record 13 */}
             <div className="p-5 hover:bg-slate-50/50 transition flex items-start gap-5">
-              <span className="text-sm font-bold text-amber-700 bg-amber-50 px-3 py-1.5 rounded w-36 text-center shrink-0">Jun 2014</span>
+              <span className="text-sm font-bold text-slate-700 bg-slate-100 px-3 py-1.5 rounded w-36 text-center shrink-0">Jun 2014</span>
               <div className="space-y-1">
                 <h4 className="font-bold text-slate-900 text-base sm:text-lg leading-snug">Session Chair (Identification and Control)</h4>
                 <p className="text-sm text-gray-600 font-semibold leading-relaxed">22nd Mediterranean Conference on Control and Automation — Palermo University, Italy.</p>
